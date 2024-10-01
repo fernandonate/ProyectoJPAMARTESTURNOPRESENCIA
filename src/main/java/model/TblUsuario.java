@@ -19,13 +19,11 @@ public class TblUsuario implements Serializable {
 
 	private String clave;
 
-	private String clave;
 
-	private int idusuario;
 
-	private int idusuario;
 
-	private int idusuario;
+
+
 
 	private String password;
 
@@ -33,9 +31,7 @@ public class TblUsuario implements Serializable {
 
 	private String usuario;
 
-	private String usuario;
 
-	private String usuario;
 
 	private String usuarioT1;
 
@@ -58,37 +54,17 @@ public class TblUsuario implements Serializable {
 		this.clave = clave;
 	}
 
-	public String getClave() {
-		return this.clave;
-	}
 
-	public void setClave(String clave) {
-		this.clave = clave;
-	}
 
-	public int getIdusuario() {
-		return this.idusuario;
-	}
 
-	public void setIdusuario(int idusuario) {
-		this.idusuario = idusuario;
-	}
 
-	public int getIdusuario() {
-		return this.idusuario;
-	}
+	
 
-	public void setIdusuario(int idusuario) {
-		this.idusuario = idusuario;
-	}
 
-	public int getIdusuario() {
-		return this.idusuario;
-	}
 
-	public void setIdusuario(int idusuario) {
-		this.idusuario = idusuario;
-	}
+	
+
+	
 
 	public String getPassword() {
 		return this.password;
@@ -114,21 +90,13 @@ public class TblUsuario implements Serializable {
 		this.usuario = usuario;
 	}
 
-	public String getUsuario() {
-		return this.usuario;
-	}
 
-	public void setUsuario(String usuario) {
-		this.usuario = usuario;
-	}
 
-	public String getUsuario() {
-		return this.usuario;
-	}
 
-	public void setUsuario(String usuario) {
-		this.usuario = usuario;
-	}
+
+
+
+
 
 	public String getUsuarioT1() {
 		return this.usuarioT1;
